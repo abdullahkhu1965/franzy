@@ -123,10 +123,25 @@ JSON Local storage for categories
 3.  Commit your changes\
 4.  Open a pull request
 
-## 👨‍💻 Author
+---
 
-**Zack / AK-Dev**
+## License
 
-## 📜 License
+MIT License © 2025 Muhammad Abdullah  
+_All rights reserved._
 
-This project is licensed under the **MIT License**.
+---
+
+## Contact
+
+**Developer:** Muhammad Abdullah  
+**Email:** [khurshidabdullah9@gmail.com](mailto:khurshidabdullah9@gmail.com)  
+**University:** Lahore Garrison University, Lahore  
+**Project Supervisor:** Sir Bilal Butt  
+**GitHub Repository:** [https://github.com/abdullahkhu1965/vinter.git](https://github.com/abdullahkhu1965/vinter.git)
+
+---
+
+## Documentation & Proposal
+
+All project documentation including **proposal** and **detailed report** is available in the [`docs/`](docs) folder of the repository.
